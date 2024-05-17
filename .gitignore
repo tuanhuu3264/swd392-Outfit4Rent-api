@@ -581,3 +581,5 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/csharp,visualstudio
+/.vs/ProjectEvaluation/swd392.outfitbox.metadata.v7.bin
+/.vs/ProjectEvaluation/swd392.outfitbox.projects.v7.bin
