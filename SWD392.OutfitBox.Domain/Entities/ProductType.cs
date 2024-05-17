@@ -8,8 +8,8 @@ using System.Threading.Tasks;
 
 namespace SWD392.OutfitBox.Domain.Entities
 {
-    [Table("Type")]
-    public class Type
+    [Table("ProductType")]
+    public class ProductType
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
